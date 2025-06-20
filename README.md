@@ -73,4 +73,4 @@ This mock clinical database captures patient data, health metrics, treatment pla
 
 ---
 
-📌 *Submitted for LIS 5683 – Advanced Database Systems @ University of Oklahoma*
+📌 *Created by Jorge Juarez – M.S. Applied Statistics Student @ University of Oklahoma*
